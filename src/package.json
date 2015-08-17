@@ -1,0 +1,10 @@
+{
+  "name": "docker-nodejs-test",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Testing Node.js from a Docker container in Raspberry Pi",
+  "author": "Adrian Murillo",
+  "dependencies": {
+    "express": "4.12.0"
+  }
+}
